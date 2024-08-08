@@ -24,34 +24,34 @@ Advantages
   
 Applications:
 
-Agricultural Departments:
+*Agricultural Departments:
 Can be used by agricultural departments to provide better support and resources to farmers.
-Farmers: 
+
+* Farmers: 
 Directly assists farmers in making data-driven decisions for crop management.
 Software and Hardware Requirements
 
 Hardware:
-Processor: Pentium-IV
-ROM: 512 MB
-RAM: 4 GB
-Hard Disk: 20 GB
+* Processor: Pentium-IV
+* ROM: 512 MB
+* RAM: 4 GB
+* Hard Disk: 20 GB
 
 Software:
 
-Operating System: Windows 2007/8/10/11
-Script: Python
-IDE: Jupyter Notebook
+* Operating System: Windows 2007/8/10/11
+* Script: Python
+* IDE: Jupyter Notebook
 
 Installation:
-1.Clone the repository:
-bash
+* Clone the repository:
+  
 git clone https://github.com/your-username/CropYield.git
-2.Navigate to the project directory:
-bash
+* Navigate to the project directory:
 cd CropYield
 
-3.Install the required dependencies:
-bash
+* Install the required dependencies:
+
 pip install -r requirements.txt
 
 Usage:
