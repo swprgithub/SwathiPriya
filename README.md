@@ -1,4 +1,5 @@
 CropYield
+
 Crop Yield Prediction Using Machine Learning and Deep Learning Models
 CropYield is a project focused on predicting future crop yields using machine learning and deep learning algorithms based on historical weather data such as temperature and rainfall. This prediction can help farmers make informed decisions before sowing, ultimately improving crop management and yield outcomes.# Swathipriya
 Abstract: 
