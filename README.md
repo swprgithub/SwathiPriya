@@ -48,27 +48,26 @@ Installation:
 * Clone the repository:
   git clone https://github.com/your-username/CropYield.git
 * Navigate to the project directory:
-  cd CropYield
+cd CropYield
 
 * Install the required dependencies:
- pip install -r requirements.txt
+pip install -r requirements.txt
 
 Usage:
 * Open the Jupyter Notebook:
- jupyter notebook CropYield.ipynb
+jupyter notebook CropYield.ipynb
 
- Follow the instructions in the notebook to load data, train models, and make predictions.
+Follow the instructions in the notebook to load data, train models, and make predictions.
 Contributing: 
 
- We welcome contributions to improve CropYield. Please fork the repository and submit a pull request with your changes.
+We welcome contributions to improve CropYield. Please fork the repository and submit a pull request with your changes.
 
 License:
 
- This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 Acknowledgements:
 
  We would like to thank the agricultural data providers and the open-source community for their invaluable resources and support.
-
  Feel free to modify this description to better suit your project's specifics and any additional details you wish to include.
 
