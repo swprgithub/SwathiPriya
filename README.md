@@ -56,9 +56,14 @@ The following skills are relevant to this project:
 - **Domain Knowledge:** Understanding of agricultural concepts and crop yield prediction.
 - **Data Science:** Broad knowledge of data science principles and methodologies.
 - **Problem-Solving:** Strong analytical and problem-solving skills to optimize model performance.
-## Links
-Linkedin:
- linkedin.com/in/nadimidoddi-priyanka-b19b34237
-Email: 
-priyankanadimidoddi2003@gmail.com
 
+## Contributing
+We welcome contributions to improve CropYield. Please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+We would like to thank the agricultural data providers and the open-source community for their invaluable resources and support.
+
+Feel free to modify this description to better suit your project's specifics and any additional details you wish to include.
