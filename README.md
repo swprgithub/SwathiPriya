@@ -71,4 +71,3 @@ We would like to thank the agricultural data providers and the open-source commu
 
 Feel free to modify this description to better suit your project's specifics and any additional details you wish to include.
 
-my own self made  project
