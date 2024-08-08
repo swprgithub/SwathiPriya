@@ -58,6 +58,7 @@ Usage:
 jupyter notebook CropYield.ipynb
 
 Follow the instructions in the notebook to load data, train models, and make predictions.
+
 Contributing: 
 
 We welcome contributions to improve CropYield. Please fork the repository and submit a pull request with your changes.
